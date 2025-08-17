@@ -27,21 +27,21 @@ The dataset contains customer information including:
 
 Data Preprocessing:
 
-  *Handling categorical features (e.g., Gender).
+  * Handling categorical features (e.g., Gender).
   
-  *Standardization of numerical features.
+  * Standardization of numerical features.
   
-  *Clustering Algorithms Used:
+  * Clustering Algorithms Used:
   
-  *K-Means (for numerical features).
+  * K-Means (for numerical features).
   
-  *K-Prototypes (for mixed categorical and numerical data).
+  * K-Prototypes (for mixed categorical and numerical data).
   
-  *Evaluation:
+  * Evaluation:
   
-  *Elbow Method
+  * Elbow Method
   
-  *Silhouette Score
+  * Silhouette Score
 
 ## 📈 Results
 
@@ -49,15 +49,15 @@ Optimal number of clusters determined using the Elbow Method and Silhouette Scor
 
 Final segmentation grouped customers into meaningful clusters such as:
 
-  -High Income – High Spending (Premium customers).
+  - High Income – High Spending (Premium customers).
   
-  -Low Income – High Spending (Price-sensitive but active buyers).
+  - Low Income – High Spending (Price-sensitive but active buyers).
   
-  -High Income – Low Spending (High potential, low engagement).
+  - High Income – Low Spending (High potential, low engagement).
   
-  -Average Income – Moderate Spending (Typical mall visitors).
+  - Average Income – Moderate Spending (Typical mall visitors).
   
-  -Low Income – Low Spending (Least profitable segment).
+  - Low Income – Low Spending (Least profitable segment).
 
 Sample Visualizations
 
