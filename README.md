@@ -11,15 +11,15 @@ In this project, we explore the Mall Customer Dataset and apply clustering algor
 
 The dataset contains customer information including:
 
-  *CustomerID
+  * CustomerID
 
-  *Gender
+  * Gender
 
-  *Age
+  * Age
 
-  *Annual Income (k$)
+  * Annual Income (k$)
 
-  *Spending Score (1–100)
+  * Spending Score (1–100)
 
 👉 Dataset Source: Mall Customer Dataset on Kaggle
 
